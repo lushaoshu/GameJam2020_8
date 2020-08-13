@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7972f3aeaaf831b41bc636f41fed7d34, type: 3}
+  m_Name: test
+  m_EditorClassIdentifier: 
+  timelineDataAsset: {fileID: 11400000, guid: 95776b4c5de96704fa4482a6cc348ff7, type: 2}
+  timelineDataAssetName: test
+  actorDatas:
+  - aoi_id: 0
+    actorPos: {x: 0, y: 0, z: 0}
+    clips:
+    - start: 0
+      duration: 0.6833333333333333
+      end: 0.6833333333333333
+      animationClipName: idel
+      clipIn: 0
+    - start: 2.7333333333333334
+      duration: 0.8333333333333333
+      end: 3.5666666666666664
+      animationClipName: run
+      clipIn: 0
+  vCamDatas: []
+  fModDatas: []

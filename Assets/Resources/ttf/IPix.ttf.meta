@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4004a4066b021324c9b1ea5daf920e6e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: IPix
+  fontNames:
+  - IPix
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b9e49fd802b1f044b89ec351ec19f48b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

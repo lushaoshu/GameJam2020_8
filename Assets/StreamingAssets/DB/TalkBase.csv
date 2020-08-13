@@ -1,0 +1,4 @@
+id,默认是当字体显示完,,
+id,time,text,btnCall,taskType,errerTime
+0,,今天天气真好,"[{""text"":""好的"",""param"":-1},{""text"":""爬"",""param"":1}]",3,0
+1,5,nmsl!!,"[{""text"":""好的"",""param"":-1},{""text"":""爬"",""param"":1}]",5,1

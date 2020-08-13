@@ -1,0 +1,3 @@
+id,资源名,场景名,玩家坐标,是否为测试地图
+id,res,name,player_pos,is_tset
+0,Map_2,Test,,FALSE
