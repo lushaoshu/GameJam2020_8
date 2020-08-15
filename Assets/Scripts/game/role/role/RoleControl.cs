@@ -29,15 +29,15 @@ public class RoleControl : SmartControl<RoleModel>
     public override void OnAppInit()
     {
         base.OnAppInit();
-        GameMng.instance.StartCoroutine(StarTimeline());
+        //GameMng.instance.StartCoroutine(StarTimeline());
     }
 
-    private IEnumerator StarTimeline() {
-        var timeline =TimelineManager.GetOrCreatInstance().AddScenarioTimeline("timeline/test");
-        while (!timeline.isInitOk)
-        {
-            yield return null;
-        }
-        timeline.StartPlay();
-    }
+    //private IEnumerator StarTimeline() {
+    //    var timeline =TimelineManager.GetOrCreatInstance().AddScenarioTimeline("timeline/test");
+    //    while (!timeline.isInitOk)
+    //    {
+    //        yield return null;
+    //    }
+    //    timeline.StartPlay();
+    //}
 }

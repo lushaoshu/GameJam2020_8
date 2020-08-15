@@ -15,7 +15,7 @@ public class TalksControl : SmartControl<TalksModel>
         //MyGUIManager.GetInstance().GetOrCreatePanel<WalkTipsPanel>().Display(true);
         // MyGUIManager.GetInstance().GetOrCreatePanel<TaskTipsPanel>().Display(true);
          
-        //ShowTips(DB.TalkBaseMap[1]);
+        ShowTips(0);
     }
 
 

@@ -36,6 +36,16 @@ public class PanelBase : IPanel
 
     }
 
+    public virtual void OnPointerExit(MonoBehaviour behaviour)
+    {
+
+    }
+
+    public virtual void OnPointerEnter(MonoBehaviour behaviour)
+    {
+
+    }
+
     public virtual void OnDestroy()
     {
 
